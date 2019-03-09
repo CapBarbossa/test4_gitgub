@@ -1,1 +1,7 @@
 It turns out that, even if I config git username and email, when pushing local stuff to remote reposity still requires the fucking username and password.
+
+
+Now, to avoid typing username and password every fucking time, i try ssh way:
+	git remote add suck2 git@github.com:CapBarbossa/test4_gitgub.git
+	git push -u suck2 master
+

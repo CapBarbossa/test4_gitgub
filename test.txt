@@ -1,1 +1,1 @@
-德玛西塔:w
+It turns out that, even if I config git username and email, when pushing local stuff to remote reposity still requires the fucking username and password.
